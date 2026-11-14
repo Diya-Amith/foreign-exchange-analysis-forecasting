@@ -56,3 +56,12 @@ Linear Regression achieved the lowest prediction errors and the highest R² scor
 
 ## Project Status
 Python analysis and initial forecasting completed. Power BI dashboard development is in progress.
+## Visualisations
+
+### Historical Exchange Rate Trends
+
+![Historical Exchange Rates](images/historical_exchange_rates.png)
+
+### GBP/USD Forecasting Model Comparison
+
+![GBP/USD Forecasting](images/gbpusd_forecasting_comparison.png)
